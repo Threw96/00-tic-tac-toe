@@ -31,6 +31,7 @@ function App() {
 
     resetGameStorage();
   };
+
   const updateBoard = (index) => {
     // no actualizamos esta posición
     // si ya tiene algo
